@@ -81,6 +81,6 @@ alt + shift + 8         : komorebic move-to-workspace 7
 # Open Apps
 alt + space         : powershell -c "Start-Process 'wt.exe'"
 
-alt + b         : powershell -c "Start-Process 'C:\Users\RJ\AppData\Local\imput\Helium\Application\chrome.exe'"
+alt + b         : powershell -c "Start-Process 'C:\Users\%USER%\AppData\Local\imput\Helium\Application\chrome.exe'"
 
 
